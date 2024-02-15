@@ -1,0 +1,6 @@
+/* CSS HEX */
+--text: #363537ff;
+--secondary: #fffffcff;
+--forest-green: #279037ff;
+--primary: #ff7f11ff;
+--tertiary: #2966e0ff;

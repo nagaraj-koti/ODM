@@ -1,1 +1,1 @@
-./webodm start --media-dir <path>
+./webodm start --media-dir ..path..
